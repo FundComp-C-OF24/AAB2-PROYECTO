@@ -4,7 +4,7 @@ Estimado estudiantes, en las propuestas para el proyecto son las siguientes: ![P
 
 De ellas Ud. deberá elegir para el desarrollo únicamente 2, y al ser muchos los grupos, y varias propuestas, la probabilidad de que existan 2 grupos con las mismas propuestas y/o soluciones similares, es muy baja. 
 
-Para esta asignatura de FUNDAMENTOS COMPUTACIONALES, los entregables para el proyecto son: 
+Para esta asignatura de __*FUNDAMENTOS COMPUTACIONALES*__, los entregables para el proyecto son: 
 
 * __ANÁLISIS__: Planteamiento el esquema de forma general / breve de la solución. (Usar el formato ENTRADA | PROCESO | SALIDA)
 * __DISEÑO__: Diseñar la solución formal en pseudocódigo A MANO, EN PAPEL O WORD (use algoritmos y/o PSeInt opcionalmente - éste último solo para verificación). Considere las reglas para su representación: Indentación, bloques de definición de variables/dominios y de control (entrada, proceso, salida), etc.
